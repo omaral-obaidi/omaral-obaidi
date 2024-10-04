@@ -2,13 +2,12 @@
   
 - 👀 I’m **interested** in Software Development, Embedded Systems, and Bioengineering!
 
-- 🌱 I’m currently **learning** TypeScript, 
+- 🌱 I’m currently **learning** TypeScript, Node.js, CSS
   
-- 💞️ I’m looking to **collaborate** on ...
+- 💞️ I’m looking to **collaborate** on start-ups and projects that dare to experiment
   
 - 📫 You can **reach** me on [LinkedIn](https://www.linkedin.com/in/omar-al-obaidi-6abb41288/)
   
-- ⚡ Fun fact: ...
 
 <!---
 omaral-obaidi/omaral-obaidi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
