@@ -2,7 +2,7 @@
   
 - 👀 I’m **interested** in Software Development, Embedded Systems, and Bioengineering!
 
-- 🌱 I’m currently **learning** TypeScript, Node.js, CSS
+- 🌱 I’m currently **learning** TypeScript, Next.js, CSS, SQL, Golang
   
 - 💞️ I’m looking to **collaborate** on start-ups and projects that dare to experiment
   
